@@ -1,0 +1,33 @@
+* {
+margin:0px;
+padding:0px;
+}
+body {
+    background:#0f0f0f;
+}
+div#contenedor{
+margin:auto;
+width: 1320px;
+height:600px;
+}
+div#contenido {
+background:#0f0f0f; 
+width:750px; 
+height:600px;
+display:inline-block;
+margin:1px;
+vertical-align:top;
+}
+div#informacion {
+background:#0f0f0f; 
+width:450px; 
+height:600px;
+display:inline-block;
+margin:1px;
+vertical-align:top;
+}
+.Estilo1 {color: #808080}
+.Estilo2 {color: #BBAC8E; font-weight:bold}
+.tablemu {
+border-collapse: collapse;
+border: 1px solid #7A7058;}
